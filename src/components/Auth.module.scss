@@ -9,17 +9,19 @@
 
 	.control {
 		margin-bottom: 0.5rem;
+		text-align: left;
 
 		label {
 			display: block;
 			margin-bottom: 0.5rem;
 			color: #616161;
+			font-weight: 700;
 			text-transform: uppercase;
 		}
 
 		input {
 			display: block;
-			width: 20rem;
+			width: 100%;
 			padding: 0.25rem;
 			margin: auto;
 			border: 1px solid #ccc;
